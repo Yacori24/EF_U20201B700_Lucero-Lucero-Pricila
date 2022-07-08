@@ -27,4 +27,10 @@ Dentro de las tendencias, se usaron:
 - Valuable: los corredores  estarán más satisfechos con su vida saludable gracias a los servicios propuestos.
 - Learnable: es muy sencillo de entender los servicios y planes ofrecidos.
 - Delightful: Invitando a los usuarios a probar la aplicación desde el primer momento y mencionarle los beneficios que obtendrá al hacerlo.
+  #Heuristicas
+- Relacion entre el sistema y el mundo real
+- Consistencia y estandares
+- Reconocer antes que recordar
+- Diseño estetico y minimalista
+- Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores
 
